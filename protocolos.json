@@ -690,11 +690,11 @@
                     "name": "Chackra Esplênico",
                     "colors": [
                         {
-                            "color": "violet",
+                            "color": "yellow",
                             "time": 60
                         },
                         {
-                            "color": "yellow",
+                            "color": "violet",
                             "time": 30
                         },
                         {
@@ -768,7 +768,7 @@
                     "name": "Chackra Cardíaco",
                     "colors": [
                         {
-                            "color": "sky",
+                            "color": "green",
                             "time": 60
                         },
                         {
